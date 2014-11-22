@@ -1,0 +1,1 @@
+Aplicación simple de prueba para móvil desarrollada con phonegap y la versión de WebSqlSync de https://github.com/luigi37/TodoApp que está basada en https://github.com/orbitaloop/WebSqlSync/ con un api bastante simple en php para sincronización de los datos locales con una base de datos en servidor.

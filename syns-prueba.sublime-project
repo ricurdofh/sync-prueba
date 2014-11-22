@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"path": "/var/www/sync-prueba"
+		},
+		{
+			"path": "/var/www/WebSqlSync"
+		},
+		{
+			"path": "/var/www/webSqlApp"
+		},
+		{
+			"path": "/var/www/TodoApp"
+		},
+		{
+			"path": "/var/www/TodoAppluigi"
+		}
+	]
+}
